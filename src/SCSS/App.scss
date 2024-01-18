@@ -1,0 +1,22 @@
+.app {
+    text-align: center;
+    margin: 20px;
+  
+    input {
+      margin-right: 10px;
+    }
+  
+    .imageResults {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      margin-top: 20px;
+  
+      img {
+        max-width: 100%;
+        height: auto;
+        margin-bottom: 10px;
+      }
+    }
+  }
+  
